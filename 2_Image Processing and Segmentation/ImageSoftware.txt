@@ -1,0 +1,11 @@
+QuPath install link:
+	https://qupath.github.io/
+
+ImageJ install link:
+	https://imagej.net/software/fiji/downloads
+
+VTEA wiki and install instructions: 
+	https://vtea.wiki/
+
+
+
